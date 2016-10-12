@@ -1,0 +1,3 @@
+FROM fedora
+RUN date > /date
+RUN time > /time
